@@ -68,10 +68,10 @@ Lung Cancer Type Prediction
 - Medical Image Processing
 
 ## Visual Results
-<img width="608" height="478" alt="Screenshot 2024-05-05 163654" src="https://github.com/user-attachments/assets/e83b8c91-5986-45e2-a9ef-77bc0dd84064" />
-<img width="899" height="699" alt="Screenshot 2024-05-05 222356" src="https://github.com/user-attachments/assets/dae943e2-f337-42af-911a-04a557b69922" />
-<img width="1854" height="740" alt="Screenshot 2024-05-05 222432" src="https://github.com/user-attachments/assets/d1b3d383-7fac-4c39-a00e-31161dad88ad" />
-<img width="892" height="512" alt="Screenshot 2024-05-03 220812" src="https://github.com/user-attachments/assets/cacf2225-e3dd-4f48-819c-e121b635cde9" />
+<img width="600" height="400" alt="Screenshot 2024-05-05 163654" src="https://github.com/user-attachments/assets/e83b8c91-5986-45e2-a9ef-77bc0dd84064" />
+<img width="600" height="400" alt="Screenshot 2024-05-05 222356" src="https://github.com/user-attachments/assets/dae943e2-f337-42af-911a-04a557b69922" />
+<img width="600" height="400" alt="Screenshot 2024-05-05 222432" src="https://github.com/user-attachments/assets/d1b3d383-7fac-4c39-a00e-31161dad88ad" />
+<img width="600" height="400" alt="Screenshot 2024-05-03 220812" src="https://github.com/user-attachments/assets/cacf2225-e3dd-4f48-819c-e121b635cde9" />
 
 
 ## Key Features
